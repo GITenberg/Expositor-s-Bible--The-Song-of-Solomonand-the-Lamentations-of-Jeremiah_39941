@@ -1,0 +1,38 @@
+_repo: Expositor-s-Bible--The-Song-of-Solomonand-the-Lamentations-of-Jeremiah_39941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adeney, Walter F. (Walter Frederic)
+    alias: Adeney, W. F. (Walter Frederic)
+    birthdate: 1849
+    deathdate: 1920
+    gutenberg_agent_id: '5251'
+    url: http://www.gutenberg.org/2009/agents/5251
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Nicoll, William Robertson, Sir
+    - Wace, Walter E.
+    - Clear, Claudius
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2012-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Lamentations -- Commentaries'
+- !lcc 'BS'
+- !lcsh 'Bible. Song of Solomon -- Commentaries'
+title: 'The Expositor''s Bible: The Song of Solomon and the Lamentations of Jeremiah'
+url: http://www.gutenberg.org/ebooks/39941
